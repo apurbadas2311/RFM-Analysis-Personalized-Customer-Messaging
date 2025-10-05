@@ -1,4 +1,4 @@
-RFM Analysis & Personalized Customer Messaging
+# RFM Analysis & Personalized Customer Messaging
 
 This project focuses on applying Recency, Frequency, and Monetary (RFM) analysis to segment customers and deliver personalized messages based on their behavioral patterns. The analysis is performed and visualized using Tableau.
 
@@ -111,5 +111,7 @@ The Tableau workbook includes several sheets and a dashboard for comprehensive a
 •	Avg Visit Frequency: Displays the overall average visit frequency.
 
 •	Avg Watch Time (in mins): Shows the overall average watch time.
+
+![image_alt](https://github.com/apurbadas2311/RFM-Analysis-Personalized-Customer-Messaging/blob/main/Dashboard.png)
 
 
